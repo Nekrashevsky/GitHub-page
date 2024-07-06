@@ -15,7 +15,6 @@
                 <li><a href="#contact">Contact</a></li>
             </ul>
         </nav>
-        <img src="image.jpg" alt="Description of Image" id="header-image">
     </header>
     <main>
         <section id="home">
